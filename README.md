@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana Kumarasingha</h1>
-<h3 align="center">A passionate Data Science Engineer</h3>
+<h3 align="center">A passionate Computer Science Engineer</h3>
 
 - 🌱 I’m currently learning **Computer Science & Engineering at the University of Moratuwa**
 
